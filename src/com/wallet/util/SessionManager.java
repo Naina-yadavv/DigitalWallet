@@ -1,7 +1,7 @@
 package com.wallet.util;
 
 // ============================================================
-// Developed by Member 5 – Integration & Application Flow
+// Developed by Naina Yadav 24BCE10400 – Integration & Application Flow
 // SessionManager: Simple in-memory session manager.
 // Tracks the currently logged-in user across all GUI frames.
 // Only one user can be logged in at a time (single-session).

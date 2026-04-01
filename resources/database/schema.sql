@@ -1,6 +1,6 @@
 -- ============================================================
 -- Secure Digital Wallet Application - Database Schema
--- Developed by Member 3 – Database Layer
+-- Developed by Naina yadav 24BCE10400
 -- ============================================================
 
 CREATE DATABASE IF NOT EXISTS digital_wallet;

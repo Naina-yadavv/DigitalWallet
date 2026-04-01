@@ -1,7 +1,7 @@
 package com.wallet.main;
 
 // ============================================================
-// Developed by Member 5 – Integration & Application Flow
+// Developed by Naina Yadav 24BCE10400 – Integration & Application Flow
 // WalletApplication: The main entry point of the application.
 // Sets the look-and-feel and launches the LoginFrame on the
 // Swing Event Dispatch Thread (EDT) for thread safety.
