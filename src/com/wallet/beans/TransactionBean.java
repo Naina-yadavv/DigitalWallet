@@ -1,4 +1,4 @@
-package DigitalWallet.src.com.wallet.beans;
+package com.wallet.beans;
 
 // ============================================================
 // Developed by 24BCE10236 – Transaction & Security Logic
