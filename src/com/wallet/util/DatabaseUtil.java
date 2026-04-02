@@ -13,12 +13,12 @@ import java.sql.SQLException;
 
 public class DatabaseUtil {
 
-    // ---- Database configuration — update these before running ----
+    // ---- Database configuration ----
     private static final String HOST     = "localhost";
     private static final String PORT     = "3306";
     private static final String DATABASE = "digital_wallet";
     private static final String USER     = "root";
-    private static final String PASSWORD = "Root2003";   // Set your MySQL password here
+    private static final String PASSWORD = "Root2005";  
 
     private static final String URL =
         "jdbc:mysql://" + HOST + ":" + PORT + "/" + DATABASE
