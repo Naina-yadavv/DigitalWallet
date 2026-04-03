@@ -112,8 +112,8 @@ Run `WalletApplication.java` as the main class.
 | Member | Role | Files |
 |--------|------|------|
 | Pradeepti Srivastava | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
-| Member 2 | Authentication & User Logic | UserBean, AuthenticationService |
-| Member 3 | Database Layer | UserDAO, TransactionDAO, schema.sql |
+| Lavanya Pandit | Authentication & User Logic | UserBean, AuthenticationService |
+| Dashkrat Srivastava | Database Layer | UserDAO, TransactionDAO, schema.sql |
 | Bithika Jain | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
 | Naina Yadav | Integration & Security | WalletApplication, SessionManager, DatabaseUtil, PasswordUtil |
 
