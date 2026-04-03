@@ -11,24 +11,19 @@ A desktop-based Secure Digital Wallet application built using Core Java with a S
 
 ## Features
 
+## ⚙️ Features
+
+| Feature | Details |
+|--------|--------|
 | User Registration | Create an account with name, email, and password |
-
 | Secure Login | Password hashed with SHA-256 before storage |
-
 | Wallet Balance | View current balance on the dashboard |
-
 | Add Money | Top-up your wallet (max ₹1,00,000 per transaction) |
-
 | Send Money | Transfer funds to another user by email |
-
 | Transaction History | Full history displayed in a JTable |
-
 | SQL Injection Prevention | All queries use PreparedStatement |
-
 | JDBC Transactions | Send-money uses commit/rollback for atomicity |
-
 | Custom Exception | InsufficientBalanceException for overdraft cases |
-
 | Session Management | In-memory SessionManager tracks logged-in user |
 
 ---
@@ -114,15 +109,13 @@ Run `WalletApplication.java` as the main class.
 
 ## Team Contribution
 
-| Pradeepti Srivastava - 24BCE11109 | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
-
+| Member | Role | Files |
+|--------|------|------|
+| Pradeepti Srivastava | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
 | Member 2 | Authentication & User Logic | UserBean, AuthenticationService |
-
 | Member 3 | Database Layer | UserDAO, TransactionDAO, schema.sql |
-
-| Bithika Jain - 24BCE10236 | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
-
-| Naina Yadav - 24BCE10400 | Integration, security & Application Flow | WalletApplication, SessionManager,DatabseUtil, PasswordUtil |
+| Bithika Jain | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
+| Naina Yadav | Integration & Security | WalletApplication, SessionManager, DatabaseUtil, PasswordUtil |
 
 ---
 
