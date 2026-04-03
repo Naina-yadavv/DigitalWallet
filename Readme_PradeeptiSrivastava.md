@@ -2,7 +2,7 @@
 
 **Advanced Java Programming | CSE4019**
 **VIT Bhopal University – School of Computing Science and Engineering**
-**Winter Semester (Session 2025-26)**
+**| Winter Semester (Session 2025-26)**
 
 ---
 
