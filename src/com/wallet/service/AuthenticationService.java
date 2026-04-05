@@ -1,7 +1,7 @@
 package com.wallet.service;
 
 // ============================================================
-// Developed by Member 2 – Authentication & User Logic
+// Developed by Lavanya Pandit (24BCE11039) – Authentication & User Logic
 // AuthenticationService: Business logic for user registration
 // and login. Coordinates between UserDAO (DB access),
 // PasswordUtil (hashing), and SessionManager (session state).
