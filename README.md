@@ -30,35 +30,35 @@ A **production-grade desktop Secure Digital Wallet** built with **Core Java 17+ 
 | Build | Manual/IDE | IntelliJ/Eclipse | Development workflow |
 
 ## Project Structure
+```text
 DigitalWallet/
 ├── src/com/wallet/
-│ ├── main/
-│ │ └── WalletApplication.java ← Entry point
-│ ├── gui/frames/
-│ │ ├── LoginFrame.java ← Login screen
-│ │ ├── RegisterFrame.java ← Registration screen
-│ │ ├── DashboardFrame.java ← Main wallet dashboard
-│ │ └── SendMoneyFrame.java ← Send money dialog
-│ ├── beans/
-│ │ ├── UserBean.java ← User data model
-│ │ └── TransactionBean.java ← Transaction data model
-│ ├── dao/
-│ │ ├── UserDAO.java ← DB ops for users
-│ │ └── TransactionDAO.java ← DB ops for transactions
-│ ├── service/
-│ │ ├── AuthenticationService.java ← Register/Login logic
-│ │ └── TransactionService.java ← Wallet business logic
-│ ├── util/
-│ │ ├── DatabaseUtil.java ← JDBC connection manager
-│ │ ├── PasswordUtil.java ← SHA-256 hashing
-│ │ └── SessionManager.java ← Login session tracker
-│ └── exceptions/
-│ └── InsufficientBalanceException.java
+│   ├── main/
+│   │   └── WalletApplication.java          ← Entry point of application
+│   ├── gui/frames/
+│   │   ├── LoginFrame.java                 ← Handles user login interface
+│   │   ├── RegisterFrame.java              ← Handles user registration interface
+│   │   ├── DashboardFrame.java             ← Displays wallet dashboard and balance
+│   │   └── SendMoneyFrame.java             ← Manages fund transfer operations
+│   ├── beans/
+│   │   ├── UserBean.java                   ← Represents user data model
+│   │   └── TransactionBean.java            ← Represents transaction data model
+│   ├── dao/
+│   │   ├── UserDAO.java                    ← Handles database operations for users
+│   │   └── TransactionDAO.java             ← Handles database operations for transactions
+│   ├── service/
+│   │   ├── AuthenticationService.java      ← Contains login and registration logic
+│   │   └── TransactionService.java         ← Handles wallet business logic
+│   ├── util/
+│   │   ├── DatabaseUtil.java               ← Manages database connection (JDBC)
+│   │   ├── PasswordUtil.java               ← Handles password hashing (SHA-256)
+│   │   └── SessionManager.java             ← Maintains active user session
+│   └── exceptions/
+│       └── InsufficientBalanceException.java ← Custom exception for insufficient funds
 ├── resources/database/
-│ └── schema.sql ← MySQL schema
+│   └── schema.sql                          ← MySQL database schema
 └── README.md
-
-text
+```
 
 ## Production Setup Guide
 
