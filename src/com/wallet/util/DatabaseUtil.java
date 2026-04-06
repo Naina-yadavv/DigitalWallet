@@ -18,7 +18,7 @@ public class DatabaseUtil {
     private static final String PORT     = "3306";
     private static final String DATABASE = "digital_wallet";
     private static final String USER     = "root";
-    private static final String PASSWORD = "";  
+    private static final String PASSWORD = "Root2005";  
 
     private static final String URL =
         "jdbc:mysql://" + HOST + ":" + PORT + "/" + DATABASE

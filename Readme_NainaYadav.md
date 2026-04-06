@@ -114,15 +114,19 @@ Run `WalletApplication.java` as the main class.
 
 ## Team Contribution
 
-| Pradeepti Srivastava - 24BCE11109 | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
-
-| Member 2 | Authentication & User Logic | UserBean, AuthenticationService |
-
-| Member 3 | Database Layer | UserDAO, TransactionDAO, schema.sql |
+| Naina Yadav - 24BCE10400 | Integration, security & Application Flow | WalletApplication, SessionManager,DatabseUtil, PasswordUtil |
 
 | Bithika Jain - 24BCE10236 | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
 
-| Naina Yadav - 24BCE10400 | Integration, security & Application Flow | WalletApplication, SessionManager,DatabseUtil, PasswordUtil |
+ Pradeepti Srivastava - 24BCE11109 | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
+
+| Lavanya Pandit 24BCE11039 | Authentication & User Logic | UserBean, AuthenticationService |
+
+| Dashkrat Srivastava | Database Layer | UserDAO, TransactionDAO, schema.sql |
+
+
+
+
 
 ---
 
