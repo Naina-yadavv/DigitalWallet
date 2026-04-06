@@ -87,14 +87,13 @@ text
 
 ## Team Contributions
 
-| Member | Roll No | Primary Role | Key Files | Testing Focus |
-|--------|---------|--------------|-----------|---------------|
-| Pradeepti Srivastava | `24BCE11109` | **UI Developer** | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame | UI/UX Testing |
-| Lavanya Pandit | `24BCE11039` | **Authentication & User Logic** | UserBean, AuthenticationService | Security Testing |
-| Dashkrat Srivastava | `24BCE11239` | **Database Layer** | UserDAO, TransactionDAO, schema.sql | Performance Testing |
-| Bithika Jain | `24BCE10236` | **Transaction & Wallet Logic** | TransactionBean, TransactionService, InsufficientBalanceException | Business Logic Testing |
-| Naina Yadav | `24BCE10400` | **Integration, Security & Application Flow** | WalletApplication, SessionManager, DatabaseUtil, PasswordUtil | Integration Testing |
-
+| Member                     | Primary Role                          | Key Files                                                                 | Testing Focus           |
+|---------------------------|----------------------------------------|---------------------------------------------------------------------------|------------------------|
+| Naina Yadav (24BCE10400)  | Integration, Security & Application Flow | WalletApplication, SessionManager, DatabaseUtil, PasswordUtil, schema.sql | Integration Testing    |
+| Bithika Jain (24BCE10236) | Transaction & Wallet Logic            | TransactionBean, TransactionService, InsufficientBalanceException        | Business Logic Testing |
+| Pradeepti Srivastava (24BCE11109) | UI Developer                     | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame                | UI/UX Testing          |
+| Lavanya Pandit (24BCE11039) | Authentication & User Logic          | UserBean, AuthenticationService                                           | Security Testing       |
+| Dashkrat Srivastava (24BCE11239) | Database Layer                   | UserDAO, TransactionDAO                                                   | Performance Testing    |
 ## Advanced Java Topics Covered
 
 | Technology | Implementation Details |
