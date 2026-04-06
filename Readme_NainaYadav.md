@@ -109,14 +109,13 @@ Run `WalletApplication.java` as the main class.
 
 ## Team Contribution
 
-| Member | Role | Files |
-|--------|------|------|
-| Pradeepti Srivastava | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
-| Lavanya Pandit | Authentication & User Logic | UserBean, AuthenticationService |
-| Dashkrat Srivastava | Database Layer | UserDAO, TransactionDAO, schema.sql |
-| Bithika Jain | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
-| Naina Yadav | Integration & Security | WalletApplication, SessionManager, DatabaseUtil, PasswordUtil |
-
+| Member                   | Role                        | Files                                                             |
+| ------------------------ | --------------------------- | ----------------------------------------------------------------- |
+| **Naina Yadav**                 |   Integration & Security              |WalletApplication, SessionManager, DatabaseUtil, PasswordUtil, schema.sql        |
+| Bithika Jain                |  Transaction & Wallet Logic  | TransactionBean, TransactionService, InsufficientBalanceException    |
+| Pradeepti Srivastava   |  UI Developer  |LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame                                |
+| Lavanya Pandit              |  Authentication & User Logic |  UserBean, AuthenticationService  |
+| Dashkrat Srivastava         |  Database Layer     | UserDAO, TransactionDAO      |
 ---
 
 ## Advanced Java Topics Covered
