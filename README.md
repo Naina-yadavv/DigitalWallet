@@ -111,9 +111,13 @@ Run WalletApplication.java from IDE
 
 ## Quality Assurance
 Unit Testing: All service layer methods
+
 Integration Testing: Complete user workflows
+
 Performance Testing: 75 concurrent users
+
 Security Audit: Static analysis + penetration testing
+
 UI Testing: Cross-platform Swing validation
 
 
