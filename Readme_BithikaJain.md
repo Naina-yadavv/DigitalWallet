@@ -147,13 +147,13 @@ private static final String PASSWORD = "";
   - Developed authentication logic and user-related classes  
 
 - **Member 3: Dashkrat Srivastava (24BCE11239)**  
-  - Handled database operations and SQL schema  
+  - Handled database operations
 
 - **Member 4: Bithika Jain (24BCE10236)**  
   - Implemented transaction processing and exception handling  
 
 - **Member 5: Naina Yadav (24BCE10400)**  
-  - Managed integration, application flow, and security features  
+  - Managed integration, application flow, sql schema and security features  
 
 ---
 
