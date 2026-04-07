@@ -30,7 +30,7 @@ A **production-grade desktop Secure Digital Wallet** built with **Core Java 17+ 
 | Build | Manual/IDE | IntelliJ/Eclipse | Development workflow |
 
 ## Project Structure
-```text
+```
 DigitalWallet/
 ├── src/com/wallet/
 │   ├── main/
@@ -68,22 +68,17 @@ MySQL Server 8.x (Tested: 8.4.0)
 mysql-connector-java-8.x.x.jar
 4GB RAM minimum recommended
 
-text
 
 ### 2. Database Deployment
 Step 1: CREATE DATABASE digital_wallet;
 Step 2: source resources/database/schema.sql;
 
-text
 
 ### 3. Configuration Steps
 Edit DatabaseUtil.java → Update MySQL credentials
-
 Add mysql-connector JAR to IDE classpath
-
 Run WalletApplication.java from IDE
 
-text
 
 ## Team Contributions
 
@@ -121,7 +116,6 @@ Performance Testing: 75 concurrent users
 Security Audit: Static analysis + penetration testing
 UI Testing: Cross-platform Swing validation
 
-text
 
 ---
 
