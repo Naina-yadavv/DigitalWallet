@@ -1,7 +1,3 @@
-Here’s a **clean, upgraded, and slightly improved README.md** for your project with better structure, clarity, and a few professional enhancements (perfect for GitHub + viva) 👇
-
----
-
 # 💳 Secure Digital Wallet Application
 
 ### Advanced Java (Desktop-Based Project)

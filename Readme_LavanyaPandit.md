@@ -1,6 +1,4 @@
-This enhanced README.md uses professional GitHub standards, including shields.io badges, a clearer Quick Start guide, and a detailed Architecture Breakdown.
-
-# 🛡️ Secure Digital Wallet Application### Advanced Java MVC Desktop Application![Java](https://shields.io)![MySQL](https://shields.io)![Swing](https://shields.io)
+# 🛡️ Secure Digital Wallet Application
 
 A robust, desktop-based financial application built using **Core Java** and **Swing**. This project demonstrates the implementation of **MVC (Model-View-Controller)** architecture, secure data handling, and atomic database transactions for a reliable user experience.
 ---## 🚀 Key Features
