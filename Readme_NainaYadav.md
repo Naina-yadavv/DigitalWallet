@@ -1,6 +1,6 @@
 # Secure Digital Wallet Application
 
-### Advanced Java College Project (BCA / MCA / B.Tech CSE)
+### Advanced Java Project
 
 
 
