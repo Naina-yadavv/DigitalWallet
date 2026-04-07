@@ -218,10 +218,10 @@ Run `WalletApplication.java`
 
 ## Screenshots
 
-![1](<Screenshot 2026-04-02 222919.png>)
-![2](<Screenshot 2026-04-02 223001.png>)
-![3](<Screenshot 2026-04-02 222850.png>)
-![4](<Screenshot 2026-04-02 222810.png>)
+!(<screenshots\1.png>)
+!(<screenshots\2.png>)
+!(<screnshots\3.png>)
+!(<screenshots\4.png>)
 ---
 
 ## Team Contribution
