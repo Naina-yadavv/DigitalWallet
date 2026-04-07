@@ -49,10 +49,9 @@ DigitalWallet/
 ## 👥 Project Contributors
 
 | Name | Role | GitHub |
-|---|---|---|
-| Pradeepti Srivastava | UI & Frame Design | @PradeeptiS |
-| Naina Yadav | Integration & Security | @NainaY |
-| Bithika Jain | Business Logic & Exceptions | @BithikaJ |
-| Lavanya Pandit | Authentication Layer | @lavanya1486 |
-| Dashkrat Srivastava | Database Engineering | [Profile Link] |
+| Pradeepti Srivastava | UI & Frame Design
+| Naina Yadav | Integration & Security
+| Bithika Jain | Business Logic & Exceptions
+| Lavanya Pandit | Authentication Layer
+| Dashkrat Srivastava | Database Engineering
 
