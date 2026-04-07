@@ -64,19 +64,25 @@ DigitalWallet/
 
 ### 1. Prerequisites
 OpenJDK 17+ (Tested: OpenJDK 21)
+
 MySQL Server 8.x (Tested: 8.4.0)
+
 mysql-connector-java-8.x.x.jar
+
 4GB RAM minimum recommended
 
 
 ### 2. Database Deployment
 Step 1: CREATE DATABASE digital_wallet;
+
 Step 2: source resources/database/schema.sql;
 
 
 ### 3. Configuration Steps
 Edit DatabaseUtil.java → Update MySQL credentials
+
 Add mysql-connector JAR to IDE classpath
+
 Run WalletApplication.java from IDE
 
 
