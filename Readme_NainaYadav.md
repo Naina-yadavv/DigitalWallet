@@ -1,7 +1,5 @@
 # Secure Digital Wallet Application
 
-### Advanced Java Project
-
 
 
 ## Project Overview
@@ -218,10 +216,10 @@ Run `WalletApplication.java`
 
 ## Screenshots
 
-!(<screenshots\1.png>)
-!(<screenshots\2.png>)
-!(<screnshots\3.png>)
-!(<screenshots\4.png>)
+![1](<screenshots/1.png>)
+![2](<screenshots/2.png>)
+![3](<screenshots/3.png>)
+![4](<screenshots/4.png>)
 ---
 
 ## Team Contribution
