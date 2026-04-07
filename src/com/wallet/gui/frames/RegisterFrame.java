@@ -1,7 +1,7 @@
 package com.wallet.gui.frames;
 
 // ============================================================
-// Developed by Member 1 – UI Developer
+// Developed by Pradeepti Srivastava 24BCE11109 – UI Developer
 // RegisterFrame: New user registration screen.
 // Collects name, email, and password, delegates validation
 // and persistence to AuthenticationService.

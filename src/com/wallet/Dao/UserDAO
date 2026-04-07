@@ -1,7 +1,7 @@
 package com.wallet.dao;
 
 // ============================================================
-// Developed by Member 3 – Database Layer
+// Developed by Dashkrat Srivastava (24BCE11239) – Database Layer
 // UserDAO: Data Access Object for the 'users' table.
 // All SQL for user records lives here — NO SQL in service
 // or GUI classes. Uses PreparedStatement throughout to

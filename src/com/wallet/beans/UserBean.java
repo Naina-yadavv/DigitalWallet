@@ -1,7 +1,7 @@
 package com.wallet.beans;
 
 // ============================================================
-// Developed by Member 2 – Authentication & User Logic
+// Developed by Lavanya Pandit (24BCE11039) – Authentication & User Logic
 // UserBean: JavaBean representing a registered wallet user.
 // Follows standard JavaBeans conventions (private fields,
 // public getters/setters, no-arg constructor).

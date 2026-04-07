@@ -140,19 +140,19 @@ private static final String PASSWORD = "";
 
 ## Team Contribution  
 
-- **Member 1**  
+- **Member 1: Pradeepti Srivastava (24BCE11109)**  
   - Worked on user interface (Login, Register, Dashboard, Send Money screens)  
 
-- **Member 2**  
+- **Member 2: Lavanya Pandit (24BCE11039)**  
   - Developed authentication logic and user-related classes  
 
-- **Member 3**  
+- **Member 3: Dashkrat Srivastava (24BCE11239)**  
   - Handled database operations and SQL schema  
 
-- **Bithika Jain (24BCE10236)**  
+- **Member 4: Bithika Jain (24BCE10236)**  
   - Implemented transaction processing and exception handling  
 
-- **Naina Yadav (24BCE10400)**  
+- **Member 5: Naina Yadav (24BCE10400)**  
   - Managed integration, application flow, and security features  
 
 ---

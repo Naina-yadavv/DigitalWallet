@@ -11,24 +11,19 @@ A desktop-based Secure Digital Wallet application built using Core Java with a S
 
 ## Features
 
+## ⚙️ Features
+
+| Feature | Details |
+|--------|--------|
 | User Registration | Create an account with name, email, and password |
-
 | Secure Login | Password hashed with SHA-256 before storage |
-
 | Wallet Balance | View current balance on the dashboard |
-
 | Add Money | Top-up your wallet (max ₹1,00,000 per transaction) |
-
 | Send Money | Transfer funds to another user by email |
-
 | Transaction History | Full history displayed in a JTable |
-
 | SQL Injection Prevention | All queries use PreparedStatement |
-
 | JDBC Transactions | Send-money uses commit/rollback for atomicity |
-
 | Custom Exception | InsufficientBalanceException for overdraft cases |
-
 | Session Management | In-memory SessionManager tracks logged-in user |
 
 ---
@@ -114,20 +109,13 @@ Run `WalletApplication.java` as the main class.
 
 ## Team Contribution
 
-| Naina Yadav - 24BCE10400 | Integration, security & Application Flow | WalletApplication, SessionManager,DatabseUtil, PasswordUtil |
-
-| Bithika Jain - 24BCE10236 | Transaction & Wallet Logic | TransactionBean, TransactionService, InsufficientBalanceException |
-
- Pradeepti Srivastava - 24BCE11109 | UI Developer | LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame |
-
-| Lavanya Pandit 24BCE11039 | Authentication & User Logic | UserBean, AuthenticationService |
-
-| Dashkrat Srivastava | Database Layer | UserDAO, TransactionDAO, schema.sql |
-
-
-
-
-
+| Member                   | Role                        | Files                                                             |
+| ------------------------ | --------------------------- | ----------------------------------------------------------------- |
+| **Naina Yadav**                 |   Integration & Security              |WalletApplication, SessionManager, DatabaseUtil, PasswordUtil, schema.sql        |
+| Bithika Jain                |  Transaction & Wallet Logic  | TransactionBean, TransactionService, InsufficientBalanceException    |
+| Pradeepti Srivastava   |  UI Developer  |LoginFrame, RegisterFrame, DashboardFrame, SendMoneyFrame                                |
+| Lavanya Pandit              |  Authentication & User Logic |  UserBean, AuthenticationService  |
+| Dashkrat Srivastava         |  Database Layer     | UserDAO, TransactionDAO      |
 ---
 
 ## Advanced Java Topics Covered

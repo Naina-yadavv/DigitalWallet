@@ -1,7 +1,7 @@
 package com.wallet.gui.frames;
 
 // ============================================================
-// Developed by Member 1 – UI Developer
+// Developed by Pradeepti Srivastava 24BCE11109 – UI Developer
 // LoginFrame: The application's entry-point screen.
 // Collects email and password, delegates to
 // AuthenticationService, then opens DashboardFrame on success.

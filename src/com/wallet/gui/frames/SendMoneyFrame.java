@@ -1,7 +1,7 @@
 package com.wallet.gui.frames;
 
 // ============================================================
-// Developed by Member 1 – UI Developer
+// Developed by Pradeepti Srivastava 24BCE11109 – UI Developer
 // SendMoneyFrame: Dialog-style frame for sending money to
 // another registered user by email. Calls TransactionService
 // and handles InsufficientBalanceException gracefully.

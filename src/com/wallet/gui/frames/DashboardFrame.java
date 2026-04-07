@@ -1,7 +1,7 @@
 package com.wallet.gui.frames;
 
 // ============================================================
-// Developed by Member 1 – UI Developer
+// Developed by Pradeepti Srivastava 24BCE11109  – UI Developer
 // DashboardFrame: Main screen shown after login.
 // Displays balance, quick-action buttons, and a full
 // transaction history in a JTable.
