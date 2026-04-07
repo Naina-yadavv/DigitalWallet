@@ -147,13 +147,13 @@ WalletApplication.java
 
 ## 👨‍💻 Team Contributions
 
-| Member               | Role                   | Responsibilities                  |
-| -------------------- | ---------------------- | --------------------------------- |
-| Pradeepti Srivastava | UI Developer           | All GUI Frames                    |
-| Lavanya Pandit       | Authentication Logic   | UserBean, AuthenticationService   |
-| Dashkrat Srivastava  | Database Layer         | DAO Classes + SQL Schema          |
-| Bithika Jain         | Transaction Logic      | TransactionService, Exception     |
-| Naina Yadav          | Integration & Security | Main App, Session, Security Utils |
+| Member               | Role                   | Responsibilities                             |
+| -------------------- | ---------------------- | ---------------------------------            |
+| Pradeepti Srivastava | UI Developer           | All GUI Frames                               |
+| Lavanya Pandit       | Authentication Logic   | UserBean, AuthenticationService              |
+| Dashkrat Srivastava  | Database Layer         | DAO Classes                                  |
+| Bithika Jain         | Transaction Logic      | TransactionService, Exception                |
+| Naina Yadav          | Integration & Security | Main App, Session, Security Utils,sql schema |
 
 ---
 
