@@ -1,4 +1,4 @@
-# 🛡️ Secure Digital Wallet Application### Advanced Java MVC Desktop Application![Java](https://shields.io)![MySQL](https://shields.io)![Swing](https://shields.io)
+# 🛡️ Secure Digital Wallet Application
 
 A robust, desktop-based financial application built using **Core Java** and **Swing**. This project demonstrates the implementation of **MVC (Model-View-Controller)** architecture, secure data handling, and atomic database transactions for a reliable user experience.
 ---## 🚀 Key Features
